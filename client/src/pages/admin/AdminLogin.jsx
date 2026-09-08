@@ -68,7 +68,7 @@ export default function AdminLogin() {
               <div className="relative">
                 <Mail className="w-4 h-4 text-slate-500 absolute left-3.5 top-1/2 -translate-y-1/2" />
                 <input
-                  type="email"
+                  type="text"
                   required
                   placeholder="admin or admin@hariombuildhomes.com"
                   value={email}
