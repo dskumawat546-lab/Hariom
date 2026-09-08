@@ -1,0 +1,468 @@
+{
+  "settings": {
+    "companyName": "Hariom Buildhomes",
+    "companyNameHi": "हरिओम बिल्डहोम्स",
+    "tagline": "सुरक्षित, आधुनिक और बेहतरीन लोकेशन पर आपके सपनों का घर",
+    "taglineEn": "Building Trust, Crafting Luxury & Creating Dream Living Spaces",
+    "phonePrimary": "+91 98765 43210",
+    "phoneSecondary": "+91 98765 43210",
+    "whatsappNumber": "919876543210",
+    "email": "info@hariombuildhomes.com",
+    "salesEmail": "sales@hariombuildhomes.com",
+    "officeAddress": "Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "experienceYears": "15+",
+    "projectsCompleted": "15+",
+    "happyFamilies": "100+",
+    "totalSqftDelivered": "4.8M+ sq.ft.",
+    "reraApproved": "100% Legal Clear Title & Verified Approvals",
+    "aboutMission": "उच्चतम गुणवत्ता, पूर्ण पारदर्शिता और समय पर पजेशन के साथ हर परिवार को उनके सपनों का मजबूत, आधुनिक और सुरक्षित आशियाना प्रदान करना।",
+    "aboutVision": "भारत का सबसे भरोसेमंद, आधुनिक एवं पर्यावरण-अनुकूल रियल एस्टेट और होम कंस्ट्रक्शन ब्रांड बनना।",
+    "founderName": "जितेंद्र कुमावत (Jitendra Kumawat)",
+    "founderRole": "Founder & Managing Director, Hariom Buildhomes",
+    "founderMessage": "हम केवल ईंट और कंक्रीट का ढांचा नहीं बनाते, बल्कि ऐसे घरों का निर्माण करते हैं जहां पीढ़ियां सुरक्षित, खुशहाल और गर्व से जीवन बिता सकें। हर निर्माण में हमारी ईमानदारी और उच्च गुणवत्ता की मुहर होती है।"
+  },
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Jitendra Kumawat (Super Admin)",
+      "email": "admin@hariombuildhomes.com",
+      "password": "Jaipur@1212",
+      "role": "Super Admin",
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=256&q=80",
+      "createdAt": "2025-01-10",
+      "username": "admin"
+    },
+    {
+      "id": "usr-2",
+      "name": "Vikas Verma (Project Manager)",
+      "email": "manager@hariombuildhomes.com",
+      "password": "Jaipur@1212",
+      "role": "Manager",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=256&q=80",
+      "createdAt": "2025-02-01"
+    },
+    {
+      "id": "usr-3",
+      "name": "Pooja Rawat (Content Editor)",
+      "email": "editor@hariombuildhomes.com",
+      "password": "Jaipur@1212",
+      "role": "Editor",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=256&q=80",
+      "createdAt": "2025-03-15"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "Aadya Green Valley Residency",
+      "nameHi": "आद्या ग्रीन वैली रेजिडेंसी",
+      "tagline": "Eco-Luxury Living with 70% Open Greenery",
+      "status": "ongoing",
+      "statusLabel": "Ongoing Construction",
+      "location": "Near Jagatpura Flyover, Mahal Road, Jaipur",
+      "city": "Jaipur, Rajasthan",
+      "totalHomes": 64,
+      "availableHomes": 1,
+      "soldHomes": 0,
+      "startingPrice": "₹48.5 Lakhs",
+      "startingPriceVal": 4850000,
+      "possessionDate": "December 2027",
+      "reraNumber": "RAJ/P/2024/4128",
+      "totalArea": "5.5 Acres",
+      "configurations": [
+        "2 BHK",
+        "3 BHK",
+        "4 BHK Penthouse"
+      ],
+      "heroImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "आद्या ग्रीन वैली रेजिडेंसी आपके और आपके परिवार के लिए एक आधुनिक, हरा-भरा और सुरक्षित आवासीय प्रोजेक्ट है। यहाँ 70% खुला क्षेत्र, क्लब हाउस, किड्स प्ले एरिया, जॉगिंग ट्रैक और 24 घंटे सुरक्षा उपलब्ध है। प्राइम लोकेशन और आसान कनेक्टिविटी के साथ यह आपके सपनों का सबसे बेहतरीन घर साबित होगा।",
+      "features": [
+        {
+          "icon": "Building",
+          "title": "Earthquake-Resistant RCC Architecture",
+          "titleHi": "भूकंपरोधी आधुनिक आर्किटेक्चर"
+        },
+        {
+          "icon": "Car",
+          "title": "Dedicated Covered Stilt Parking",
+          "titleHi": "कवर्ड स्टिल्ट कार पार्किंग"
+        },
+        {
+          "icon": "Trees",
+          "title": "Landscaped Botanical Garden",
+          "titleHi": "हरा-भरा लैंडस्केप गार्डन"
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "3-Tier 24x7 Security & CCTV",
+          "titleHi": "24x7 सुरक्षा व सीसीटीवी"
+        },
+        {
+          "icon": "Droplets",
+          "title": "24-Hour Borewell & Water Softener",
+          "titleHi": "24 घंटे जल आपूर्ति व वाटर हार्वेस्टिंग"
+        },
+        {
+          "icon": "Zap",
+          "title": "100% Generator Power Backup",
+          "titleHi": "कॉमन एरिया पावर बैकअप"
+        },
+        {
+          "icon": "Footprints",
+          "title": "60ft Wide Main Entry Road",
+          "titleHi": "60 फीट चौड़ी मुख्य सड़क"
+        },
+        {
+          "icon": "GraduationCap",
+          "title": "Top Schools within 1.5 km",
+          "titleHi": "प्रमुख स्कूल 1.5 किमी के भीतर"
+        },
+        {
+          "icon": "HeartPulse",
+          "title": "Super-Specialty Hospital (3 km)",
+          "titleHi": "अस्पताल 3 किमी की दूरी पर"
+        }
+      ],
+      "constructionProgress": {
+        "percentage": 65,
+        "currentStageTitle": "First Floor Slab & Column Casting",
+        "currentStageHi": "प्रथम तल स्लैब और कॉलम कास्टिंग कार्य प्रगति पर",
+        "lastUpdated": "25 August 2026",
+        "stages": [
+          {
+            "id": "s1",
+            "name": "Foundation & Footing Work",
+            "nameHi": "नींव व पाइलिंग कार्य",
+            "status": "completed",
+            "progress": 100,
+            "date": "Nov 2025"
+          },
+          {
+            "id": "s2",
+            "name": "Basement & Stilt Parking",
+            "nameHi": "बेसमेंट व पार्किंग स्ट्रक्चर",
+            "status": "completed",
+            "progress": 100,
+            "date": "Feb 2026"
+          },
+          {
+            "id": "s3",
+            "name": "Ground Floor Structure",
+            "nameHi": "भूतल कंक्रीट स्ट्रक्चर",
+            "status": "completed",
+            "progress": 100,
+            "date": "May 2026"
+          },
+          {
+            "id": "s4",
+            "name": "First & Second Floor Slab",
+            "nameHi": "प्रथम व द्वितीय तल स्लैब",
+            "status": "running",
+            "progress": 70,
+            "date": "Aug 2026"
+          },
+          {
+            "id": "s5",
+            "name": "Brickwork & Wall Plaster",
+            "nameHi": "ईंट चिनाई व प्लास्टरिंग",
+            "status": "running",
+            "progress": 35,
+            "date": "Oct 2026 (Est.)"
+          },
+          {
+            "id": "s6",
+            "name": "Electrical & Plumbing Lines",
+            "nameHi": "वायरिंग व प्लंबिंग फिटिंग",
+            "status": "pending",
+            "progress": 0,
+            "date": "Jan 2027 (Est.)"
+          },
+          {
+            "id": "s7",
+            "name": "Flooring, Painting & Finishing",
+            "nameHi": "फ्लोरिंग, पेंटिंग व फिनिशिंग",
+            "status": "pending",
+            "progress": 0,
+            "date": "May 2027 (Est.)"
+          },
+          {
+            "id": "s8",
+            "name": "Final Handover & Possession",
+            "nameHi": "अंतिम हैंडओवर व पजेशन",
+            "status": "pending",
+            "progress": 0,
+            "date": "Dec 2027"
+          }
+        ],
+        "monthlyUpdates": [
+          {
+            "id": "up-1",
+            "date": "25 August 2026",
+            "monthTitle": "August 2026 Site Milestone Update",
+            "description": "Ground floor structural framework completely cured. First floor shuttering and reinforced steel binding completed. Slab concrete pouring scheduled for this weekend.",
+            "descriptionHi": "भूतल का स्ट्रक्चर कार्य पूर्ण हो चुका है। प्रथम तल की शटरिंग और स्टील बाइंडिंग का काम पूरा हो गया है। गुणवत्ता परीक्षण 100% पास रहा।",
+            "photo": "https://images.unsplash.com/photo-1541888946425-d0fbb18615f8?auto=format&fit=crop&w=800&q=80",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+          },
+          {
+            "id": "up-2",
+            "date": "15 July 2026",
+            "monthTitle": "July 2026 Ground Floor Progress",
+            "description": "Stilt level columns and ground floor slab de-shuttered. Outer boundary brickwork commenced.",
+            "descriptionHi": "स्टिल्ट लेवल के कॉलम तैयार हो चुके हैं और भूतल की स्लैब डी-शटरिंग का काम पूरा हुआ।",
+            "photo": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
+            "videoUrl": ""
+          }
+        ]
+      },
+      "locationDetails": {
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Jaipur&t=&z=13&ie=UTF8&iwloc=&output=embed",
+        "address": "Plot No. 12-18, Green Valley Avenue, Near Ring Road Flyover, Mahal Road, Jaipur (Raj.)",
+        "distances": [
+          {
+            "place": "Main Ring Road / Express Highway",
+            "placeHi": "मुख्य रिंग रोड / हाईवे",
+            "distance": "1.8 km",
+            "time": "3 mins"
+          },
+          {
+            "place": "Jaipur Railway Junction",
+            "placeHi": "रेलवे जंक्शन स्टेशन",
+            "distance": "6.5 km",
+            "time": "15 mins"
+          },
+          {
+            "place": "Jaipur International Airport",
+            "placeHi": "अंतरराष्ट्रीय हवाई अड्डा",
+            "distance": "8.2 km",
+            "time": "18 mins"
+          },
+          {
+            "place": "DPS & St. Xavier School",
+            "placeHi": "प्रमुख स्कूल व कॉलेज",
+            "distance": "1.2 km",
+            "time": "3 mins"
+          },
+          {
+            "place": "Mahatma Gandhi Hospital",
+            "placeHi": "मल्टी-स्पेशियलिटी अस्पताल",
+            "distance": "2.5 km",
+            "time": "6 mins"
+          },
+          {
+            "place": "Metro Station & Bus Stand",
+            "placeHi": "मेट्रो स्टेशन व बस स्टैंड",
+            "distance": "3.0 km",
+            "time": "7 mins"
+          },
+          {
+            "place": "Daily Needs Market & Mall",
+            "placeHi": "सुपरमार्केट व शॉपिंग मॉल",
+            "distance": "800 meters",
+            "time": "2 mins"
+          }
+        ]
+      },
+      "houseModels": [
+        {
+          "id": "hm-1",
+          "type": "2 BHK Premium",
+          "carpetArea": "1,150 sq.ft.",
+          "superArea": "1,380 sq.ft.",
+          "price": "₹48.5 Lakhs",
+          "priceNum": 4850000,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "balconies": 2,
+          "features": [
+            "Modular Kitchen",
+            "Vastu Compliant",
+            "Wardrobe Provision",
+            "Spacious Utility Area"
+          ],
+          "floorPlanImg": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "hm-2",
+          "type": "3 BHK Royal Luxury",
+          "carpetArea": "1,580 sq.ft.",
+          "superArea": "1,890 sq.ft.",
+          "price": "₹68.0 Lakhs",
+          "priceNum": 6800000,
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "balconies": 3,
+          "features": [
+            "Italian Floor Tiles",
+            "Pooja Room",
+            "Walk-in Wardrobe",
+            "2 Covered Car Parks"
+          ],
+          "floorPlanImg": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "hm-3",
+          "type": "4 BHK Grand Penthouse",
+          "carpetArea": "2,350 sq.ft.",
+          "superArea": "2,820 sq.ft.",
+          "price": "₹1.15 Cr",
+          "priceNum": 11500000,
+          "bedrooms": 4,
+          "bathrooms": 4,
+          "balconies": 4,
+          "features": [
+            "Private Sky Deck",
+            "Jacuzzi Bath",
+            "Home Automation",
+            "Servant Quarters"
+          ],
+          "floorPlanImg": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=800&q=80"
+        }
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "id": "prop-101",
+      "houseNo": "A-101",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "bhk": "2 BHK",
+      "type": "Corner Apartment",
+      "area": "1,250 sq.ft.",
+      "price": "₹48.5 Lakhs",
+      "priceVal": 4850000,
+      "floor": "1st Floor (Tower A)",
+      "facing": "East Facing (Vastu Compliant)",
+      "status": "available",
+      "statusLabel": "Available",
+      "features": [
+        "Modular Kitchen",
+        "2 Balconies",
+        "Park View",
+        "Covered Car Park"
+      ],
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "floorPlan": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Aadya Green Valley — Modern Elevation",
+      "titleHi": "आद्या ग्रीन वैली — एलिवेशन व्यू",
+      "type": "photo",
+      "category": "exterior",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1000&q=80",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "gal-3",
+      "title": "First Floor Slab Concreting — Onsite Drone Shot",
+      "titleHi": "प्रथम तल स्लैब कंक्रीटिंग — ऑनसाइट ड्रोन फोटो",
+      "type": "photo",
+      "category": "construction",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "url": "https://images.unsplash.com/photo-1541888946425-d0fbb18615f8?auto=format&fit=crop&w=1000&q=80",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "gal-4",
+      "title": "3 BHK Sample Flat — Italian Style Living Room",
+      "titleHi": "3 BHK सैंपल फ्लैट — लिविंग रूम इंटीरियर",
+      "type": "photo",
+      "category": "interior",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "gal-7",
+      "title": "Project Aerial Drone Video Walkthrough",
+      "titleHi": "प्रोजेक्ट ड्रोन एरियल वॉकथ्रू",
+      "type": "video",
+      "category": "drone",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1000&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "date": "2026-08-01"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-101",
+      "name": "Rahul Sharma (राहुल शर्मा)",
+      "phone": "+91 98290 12345",
+      "email": "rahul.sharma@gmail.com",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "propertyType": "3 BHK Royal Luxury",
+      "budget": "₹60 - 75 Lakhs",
+      "preferredVisitDate": "2026-09-03",
+      "message": "I want to visit the site this Sunday with my family to finalize a 3 BHK corner apartment on the 2nd floor.",
+      "status": "new",
+      "statusLabel": "New Enquiry",
+      "notes": "Customer looking for east-facing unit. Needs home loan assistance with SBI.",
+      "createdAt": "2026-08-30T10:30:00Z"
+    },
+    {
+      "id": "enq-102",
+      "name": "Vikram Singh Rathore",
+      "phone": "+91 94140 98765",
+      "email": "vikram.rathore@outlook.com",
+      "projectId": "proj-2",
+      "projectName": "Royal Palms Luxury Villas",
+      "propertyType": "4 BHK Duplex Villa",
+      "budget": "₹1.2 - 1.5 Cr",
+      "preferredVisitDate": "2026-09-01",
+      "message": "Interested in ready-to-move Villa V-07. Please share latest price and registry breakdown.",
+      "status": "site_visit",
+      "statusLabel": "Site Visit Scheduled",
+      "notes": "Site visit confirmed for Tuesday 4 PM. Assigned to executive Ankit.",
+      "createdAt": "2026-08-29T15:20:00Z"
+    },
+    {
+      "id": "enq-103",
+      "name": "Amit Agarwal (अमित अग्रवाल)",
+      "phone": "+91 98288 55443",
+      "email": "agarwal.amit@yahoo.com",
+      "projectId": "proj-3",
+      "projectName": "Shree Krishna Heights",
+      "propertyType": "2 BHK Smart Suite",
+      "budget": "₹50 - 60 Lakhs",
+      "preferredVisitDate": "2026-09-05",
+      "message": "Looking for investment in Vaishali Nagar project. Want to know expected rental yield.",
+      "status": "contacted",
+      "statusLabel": "Contacted (Call Done)",
+      "notes": "Spoke over phone. Sent brochure and floor plans on WhatsApp.",
+      "createdAt": "2026-08-28T11:45:00Z"
+    },
+    {
+      "id": "enq-104",
+      "name": "Dr. Sunita Meena",
+      "phone": "+91 97850 66778",
+      "email": "dr.sunita@medicare.org",
+      "projectId": "proj-1",
+      "projectName": "Aadya Green Valley Residency",
+      "propertyType": "4 BHK Grand Penthouse",
+      "budget": "₹1.0 - 1.2 Cr",
+      "preferredVisitDate": "2026-08-25",
+      "message": "Booked House A-102. Loan documentation in progress.",
+      "status": "converted",
+      "statusLabel": "Converted / Booked 🎉",
+      "notes": "Token amount ₹2 Lakhs received. Agreement for sale scheduled.",
+      "createdAt": "2026-08-20T09:15:00Z"
+    }
+  ]
+}

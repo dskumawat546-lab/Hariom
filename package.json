@@ -1,0 +1,17 @@
+{
+  "name": "hariom-buildhomes",
+  "version": "1.0.0",
+  "description": "Hariom Buildhomes Real Estate Construction Website & Admin CMS/CRM",
+  "main": "server/server.js",
+  "scripts": {
+    "build": "npm --prefix client install && npm --prefix client run build && node copy_dist.js",
+    "start": "node server/server.js",
+    "dev:server": "node server/server.js",
+    "dev:client": "npm --prefix client run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
