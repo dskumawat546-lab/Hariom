@@ -1,0 +1,16 @@
+{
+  "appId": "com.hariombuildhomes.app",
+  "appName": "Hariom Buildhomes",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#020617",
+      "showSpinner": false
+    }
+  }
+}

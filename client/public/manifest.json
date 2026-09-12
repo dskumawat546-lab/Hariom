@@ -1,0 +1,24 @@
+{
+  "name": "Hariom Buildhomes",
+  "short_name": "Hariom Homes",
+  "description": "Jaipur's Trusted Real Estate Builder \u2014 Live Construction Tracker & Luxury Properties",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
