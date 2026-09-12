@@ -6,7 +6,7 @@ export default function FloatingActions() {
   const { settings } = useSite();
 
   const whatsappNumber = settings.whatsappNumber || '919876543210';
-  const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent('Hello Hariom Buildhomes, I would like to enquire about your available properties and schedule a site visit.')}`;
+  const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent('Hello Kumawat Homes, I would like to enquire about your available properties and schedule a site visit.')}`;
   const phoneUrl = `tel:${settings.phonePrimary?.replace(/[^0-9+]/g, '') || '+919876543210'}`;
 
   return (

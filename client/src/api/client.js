@@ -1,7 +1,7 @@
 import { initialData } from './seedData';
 
 const API_BASE = import.meta.env.VITE_API_URL || 'https://hariom-adku.onrender.com/api';
-const LOCAL_DB_KEY = 'hariom_buildhomes_db';
+const LOCAL_DB_KEY = 'kumawat_homes_db';
 
 // Initialize LocalStorage database if not present
 function getLocalDB() {

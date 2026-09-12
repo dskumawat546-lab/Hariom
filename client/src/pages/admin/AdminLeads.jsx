@@ -171,7 +171,7 @@ export default function AdminLeads() {
             <tbody className="divide-y divide-slate-700/60 text-slate-300">
               {filtered.map((enq) => {
                 const phoneClean = (enq.phone || '').replace(/[^0-9+]/g, '');
-                const waText = encodeURIComponent(`Hello ${enq.name}, Thank you for your interest in ${enq.projectName || 'Hariom Buildhomes'}. When can we arrange your project site visit?`);
+                const waText = encodeURIComponent(`Hello ${enq.name}, Thank you for your interest in ${enq.projectName || 'Kumawat Homes'}. When can we arrange your project site visit?`);
                 return (
                   <tr key={enq.id} className="hover:bg-slate-800/50 transition">
                     <td className="px-6 py-4">

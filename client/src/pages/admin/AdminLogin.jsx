@@ -44,7 +44,7 @@ export default function AdminLogin() {
           </Link>
           <div>
             <h1 className="text-2xl sm:text-3xl font-black font-heading text-white tracking-tight">
-              Hariom Buildhomes CMS
+              Kumawat Homes CMS
             </h1>
             <p className="text-xs text-slate-400 mt-1">
               Secure Administration & CRM Control Panel
@@ -70,7 +70,7 @@ export default function AdminLogin() {
                 <input
                   type="text"
                   required
-                  placeholder="admin or admin@hariombuildhomes.com"
+                  placeholder="admin or admin@kumawathomes.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   className="w-full pl-10 pr-4 py-3 rounded-xl bg-slate-800 border border-slate-700 text-white text-sm focus:outline-none focus:ring-2 focus:ring-amber-500"
@@ -120,14 +120,14 @@ export default function AdminLogin() {
               </button>
               <button
                 type="button"
-                onClick={() => handleQuickLogin('manager@hariombuildhomes.com', 'Jaipur@1212')}
+                onClick={() => handleQuickLogin('manager@kumawathomes.com', 'Jaipur@1212')}
                 className="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-[11px] font-bold text-blue-400 border border-slate-700 transition cursor-pointer text-center"
               >
                 Manager
               </button>
               <button
                 type="button"
-                onClick={() => handleQuickLogin('editor@hariombuildhomes.com', 'Jaipur@1212')}
+                onClick={() => handleQuickLogin('editor@kumawathomes.com', 'Jaipur@1212')}
                 className="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-[11px] font-bold text-emerald-400 border border-slate-700 transition cursor-pointer text-center"
               >
                 Editor

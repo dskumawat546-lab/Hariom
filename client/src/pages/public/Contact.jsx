@@ -116,7 +116,7 @@ export default function Contact() {
                   <h4 className="font-bold text-slate-900">Email Enquiries</h4>
                   <p className="text-xs text-slate-600 mt-0.5">
                     <a href={`mailto:${settings.salesEmail || settings.email}`} className="font-bold text-slate-900">
-                      {settings.salesEmail || 'sales@hariombuildhomes.com'}
+                      {settings.salesEmail || 'sales@kumawathomes.com'}
                     </a>
                   </p>
                 </div>
@@ -136,7 +136,7 @@ export default function Contact() {
             {/* Instant Actions */}
             <div className="pt-2 flex flex-col gap-3">
               <a
-                href={`https://wa.me/${settings.whatsappNumber || '919876543210'}?text=${encodeURIComponent('Hello Hariom Buildhomes, I would like to schedule a site visit.')}`}
+                href={`https://wa.me/${settings.whatsappNumber || '919876543210'}?text=${encodeURIComponent('Hello Kumawat Homes, I would like to schedule a site visit.')}`}
                 target="_blank"
                 rel="noreferrer"
                 className="w-full py-3 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-md transition"

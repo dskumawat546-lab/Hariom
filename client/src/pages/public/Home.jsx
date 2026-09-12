@@ -47,10 +47,10 @@ export default function Home() {
       }))
     : [
         {
-          title: "Hariom Buildhomes — सुरक्षित, आधुनिक और बेहतरीन लोकेशन पर आपके सपनों का घर",
+          title: "Kumawat Homes — सुरक्षित, आधुनिक और बेहतरीन लोकेशन पर आपके सपनों का घर",
           subtitle: "Experience luxury living spaces built with 15+ years of trust and engineering excellence.",
           image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
-          projectTag: "Hariom Buildhomes Jaipur",
+          projectTag: "Kumawat Homes Jaipur",
           link: "/projects"
         }
       ];

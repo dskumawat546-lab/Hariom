@@ -6,15 +6,15 @@ const SiteContext = createContext(null);
 
 export function SiteProvider({ children }) {
   const [settings, setSettings] = useState({
-    companyName: 'Hariom Buildhomes',
-    companyNameHi: 'हरिओम बिल्डहोम्स',
+    companyName: 'Kumawat Homes',
+    companyNameHi: 'कुमावत होम्स',
     tagline: 'सुरक्षित, आधुनिक और बेहतरीन लोकेशन पर आपके सपनों का घर',
     taglineEn: 'Building Trust, Crafting Luxury & Creating Dream Living Spaces',
     phonePrimary: '+91 98765 43210',
     phoneSecondary: '+91 98765 43210',
     whatsappNumber: '919876543210',
-    email: 'info@hariombuildhomes.com',
-    salesEmail: 'sales@hariombuildhomes.com',
+    email: 'info@kumawathomes.com',
+    salesEmail: 'sales@kumawathomes.com',
     officeAddress: 'Vaishali Nagar, Jaipur, Sector 12, Main Ring Road, Jaipur, Rajasthan 302020',
     experienceYears: '15+',
     projectsCompleted: '15+',

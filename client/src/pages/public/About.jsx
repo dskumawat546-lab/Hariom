@@ -41,7 +41,7 @@ export default function About() {
             Building Trust, Quality & Happiness
           </h1>
           <p className="text-sm sm:text-base text-slate-300">
-            {settings.companyName || 'Hariom Buildhomes'} पिछले {settings.experienceYears || '15+'} वर्षों से सुरक्षित, आधुनिक और प्रीमियम आवासीय प्रोजेक्ट्स के निर्माण में अग्रणी नाम है।
+            {settings.companyName || 'Kumawat Homes'} पिछले {settings.experienceYears || '15+'} वर्षों से सुरक्षित, आधुनिक और प्रीमियम आवासीय प्रोजेक्ट्स के निर्माण में अग्रणी नाम है।
           </p>
         </div>
       </div>

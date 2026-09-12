@@ -101,7 +101,7 @@ export default function Navbar() {
 
             <div className="hidden sm:flex items-center gap-3">
               <a
-                href={`https://wa.me/${settings.whatsappNumber || '919876543210'}?text=${encodeURIComponent('Hello Hariom Buildhomes, I am interested in your residential projects.')}`}
+                href={`https://wa.me/${settings.whatsappNumber || '919876543210'}?text=${encodeURIComponent('Hello Kumawat Homes, I am interested in your residential projects.')}`}
                 target="_blank"
                 rel="noreferrer"
                 className="w-10 h-10 rounded-xl bg-emerald-50 hover:bg-emerald-100 text-emerald-600 border border-emerald-200 flex items-center justify-center transition"
@@ -168,7 +168,7 @@ export default function Navbar() {
                   Call Us
                 </a>
                 <a
-                  href={`https://wa.me/${settings.whatsappNumber || '919876543210'}?text=${encodeURIComponent('Hello Hariom Buildhomes, I need project details.')}`}
+                  href={`https://wa.me/${settings.whatsappNumber || '919876543210'}?text=${encodeURIComponent('Hello Kumawat Homes, I need project details.')}`}
                   target="_blank"
                   rel="noreferrer"
                   className="flex-1 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-semibold text-xs flex items-center justify-center gap-1.5"

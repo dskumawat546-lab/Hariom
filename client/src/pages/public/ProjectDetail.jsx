@@ -185,7 +185,7 @@ export default function ProjectDetail() {
                 </a>
 
                 <a
-                  href={`https://wa.me/919983188677?text=${encodeURIComponent(`Hello Hariom Buildhomes, I need brochure & price list for ${project.name}`)}`}
+                  href={`https://wa.me/919983188677?text=${encodeURIComponent(`Hello Kumawat Homes, I need brochure & price list for ${project.name}`)}`}
                   target="_blank"
                   rel="noreferrer"
                   className="py-3 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-xs flex items-center justify-center gap-1.5 transition"

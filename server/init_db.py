@@ -4,15 +4,15 @@ import json, os
 db = {}
 
 db['settings'] = {
-    'companyName': 'Hariom Buildhomes',
-    'companyNameHi': 'हरिओम बिल्डहोम्स',
+    'companyName': 'Kumawat Homes',
+    'companyNameHi': 'कुमावत होम्स',
     'tagline': 'सुरक्षित, आधुनिक और बेहतरीन लोकेशन पर आपके सपनों का घर',
     'taglineEn': 'Building Trust, Crafting Luxury & Creating Dream Living Spaces',
     'phonePrimary': '+91 99831 88677',
     'phoneSecondary': '+91 98765 43211',
     'whatsappNumber': '919983188677',
-    'email': 'info@hariombuildhomes.com',
-    'salesEmail': 'sales@hariombuildhomes.com',
+    'email': 'info@kumawathomes.com',
+    'salesEmail': 'sales@kumawathomes.com',
     'officeAddress': 'Aadya Corporate Tower, Sector 12, Main Ring Road, Jaipur, Rajasthan 302020',
     'experienceYears': '15+',
     'projectsCompleted': '15+',
@@ -30,7 +30,7 @@ db['users'] = [
     {
         'id': 'usr-1',
         'name': 'Jitendra Kumawat (Super Admin)',
-        'email': 'admin@hariombuildhomes.com',
+        'email': 'admin@kumawathomes.com',
         'password': 'jaipur@123',
         'role': 'Super Admin',
         'avatar': 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=256&q=80',
@@ -39,7 +39,7 @@ db['users'] = [
     {
         'id': 'usr-2',
         'name': 'Vikas Verma (Project Manager)',
-        'email': 'manager@hariombuildhomes.com',
+        'email': 'manager@kumawathomes.com',
         'password': 'jaipur@123',
         'role': 'Manager',
         'avatar': 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=256&q=80',
@@ -48,7 +48,7 @@ db['users'] = [
     {
         'id': 'usr-3',
         'name': 'Pooja Rawat (Content Editor)',
-        'email': 'editor@hariombuildhomes.com',
+        'email': 'editor@kumawathomes.com',
         'password': 'jaipur@123',
         'role': 'Editor',
         'avatar': 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=256&q=80',

@@ -1,15 +1,15 @@
 // Seed data fallback for static deployment on Vercel / offline mode
 export const initialData = {
   "settings": {
-    "companyName": "Hariom Buildhomes",
-    "companyNameHi": "हरिओम बिल्डहोम्स",
+    "companyName": "Kumawat Homes",
+    "companyNameHi": "कुमावत होम्स",
     "tagline": "सुरक्षित, आधुनिक और बेहतरीन लोकेशन पर आपके सपनों का घर",
     "taglineEn": "Building Trust, Crafting Luxury & Creating Dream Living Spaces",
     "phonePrimary": "+91 98765 43210",
     "phoneSecondary": "+91 98765 43210",
     "whatsappNumber": "919876543210",
-    "email": "info@hariombuildhomes.com",
-    "salesEmail": "sales@hariombuildhomes.com",
+    "email": "info@kumawathomes.com",
+    "salesEmail": "sales@kumawathomes.com",
     "officeAddress": "Vaishali Nagar, Jaipur, Rajasthan 302021",
     "experienceYears": "15+",
     "projectsCompleted": "15+",
@@ -19,14 +19,14 @@ export const initialData = {
     "aboutMission": "उच्चतम गुणवत्ता, पूर्ण पारदर्शिता और समय पर पजेशन के साथ हर परिवार को उनके सपनों का मजबूत, आधुनिक और सुरक्षित आशियाना प्रदान करना।",
     "aboutVision": "भारत का सबसे भरोसेमंद, आधुनिक एवं पर्यावरण-अनुकूल रियल एस्टेट और होम कंस्ट्रक्शन ब्रांड बनना।",
     "founderName": "जितेंद्र कुमावत (Jitendra Kumawat)",
-    "founderRole": "Founder & Managing Director, Hariom Buildhomes",
+    "founderRole": "Founder & Managing Director, Kumawat Homes",
     "founderMessage": "हम केवल ईंट और कंक्रीट का ढांचा नहीं बनाते, बल्कि ऐसे घरों का निर्माण करते हैं जहां पीढ़ियां सुरक्षित, खुशहाल और गर्व से जीवन बिता सकें। हर निर्माण में हमारी ईमानदारी और उच्च गुणवत्ता की मुहर होती है।"
   },
   "users": [
     {
       "id": "usr-1",
       "name": "Jitendra Kumawat (Super Admin)",
-      "email": "admin@hariombuildhomes.com",
+      "email": "admin@kumawathomes.com",
       "password": "Jaipur@1212",
       "role": "Super Admin",
       "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=256&q=80",
@@ -36,7 +36,7 @@ export const initialData = {
     {
       "id": "usr-2",
       "name": "Vikas Verma (Project Manager)",
-      "email": "manager@hariombuildhomes.com",
+      "email": "manager@kumawathomes.com",
       "password": "Jaipur@1212",
       "role": "Manager",
       "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=256&q=80",
@@ -45,7 +45,7 @@ export const initialData = {
     {
       "id": "usr-3",
       "name": "Pooja Rawat (Content Editor)",
-      "email": "editor@hariombuildhomes.com",
+      "email": "editor@kumawathomes.com",
       "password": "Jaipur@1212",
       "role": "Editor",
       "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=256&q=80",

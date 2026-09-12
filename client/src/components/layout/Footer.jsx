@@ -31,7 +31,7 @@ export default function Footer() {
                   HARIOM<span className="text-amber-500">.</span>BUILDHOMES
                 </span>
                 <span className="text-xs uppercase tracking-widest text-slate-400 font-semibold">
-                  {settings.companyName || 'Hariom Buildhomes'}
+                  {settings.companyName || 'Kumawat Homes'}
                 </span>
               </div>
             </Link>
@@ -134,7 +134,7 @@ export default function Footer() {
               <p className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-amber-400 shrink-0" />
                 <a href={`mailto:${settings.salesEmail || settings.email}`} className="hover:text-white">
-                  {settings.salesEmail || 'sales@hariombuildhomes.com'}
+                  {settings.salesEmail || 'sales@kumawathomes.com'}
                 </a>
               </p>
             </div>
@@ -143,7 +143,7 @@ export default function Footer() {
 
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <p>
-            © {new Date().getFullYear()} {settings.companyName || 'Hariom Buildhomes'}. All Rights Reserved.
+            © {new Date().getFullYear()} {settings.companyName || 'Kumawat Homes'}. All Rights Reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link to="/about" className="hover:text-amber-400 transition">About Company</Link>
